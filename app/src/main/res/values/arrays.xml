@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="colorlist">
+        <item>#000000</item>
+        <item>#FFFFFF</item>
+        <item>#A9A9A9</item>
+        <item>#808080</item>
+        <item>#696969</item>
+        <item>#778899</item>
+        <item>#708090</item>
+        <item>#2F4F4F</item>
+        <item>#ADFF2F</item>
+        <item>#7FFF00</item>
+        <item>#7CFC00</item>
+        <item>#7CFC00</item>
+        <item>#32CD32</item>
+        <item>#98FB98</item>
+        <item>#90EE90</item>
+        <item>#00FA9A</item>
+        <item>#00FF7F</item>
+        <item>#3CB371</item>
+        <item>#2E8B57</item>
+        <item>#228B22</item>
+        <item>#008000</item>
+        <item>#006400</item>
+        <item>#9ACD32</item>
+        <item>#D8BFD8</item>
+        <item>#DDA0DD</item>
+        <item>#EE82EE</item>
+        <item>#DA70D6</item>
+        <item>#FF00FF</item>
+        <item>#FF00FF</item>
+        <item>#BA55D3</item>
+        <item>#9370DB</item>
+        <item>#663399</item>
+        <item>#8A2BE2</item>
+        <item>#9400D3</item>
+        <item>#9932CC</item>
+        <item>#8B008B</item>
+        <item>#800080</item>
+        <item>#4B0082</item>
+        <item>#6A5ACD</item>
+        <item>#483D8B</item>
+        <item>#7B68EE</item>
+        <item>#FF1408</item>
+        <item>#FF340A</item>
+        <item>#FF290C</item>
+        <item>#FF5815</item>
+        <item>#FF7B1C</item>
+        <item>#FF7B1C</item>
+        <item>#FF9F19</item>
+        <item>#FFBC17</item>
+        <item>#FF150C</item>
+        <item>#FF0E1A</item>
+        <item>#FF1131</item>
+        <item>#FF1248</item>
+        <item>#FF1263</item>
+        <item>#FF1181</item>
+        <item>#09FFFF</item>
+        <item>#25FDFF</item>
+        <item>#4CFDFF</item>
+        <item>#4CFDFF</item>
+        <item>#92FCFF</item>
+        <item>#CEFCFF</item>
+        <item>#E8FDFF</item>
+        <item>#F9FF09</item>
+        <item>#F8FF2E</item>
+        <item>#FBFF55</item>
+        <item>#FBFF80</item>
+        <item>#F8FFA1</item>
+        <item>#F5FFBF</item>
+        <item>#05FFB9</item>
+        <item>#23FFB9</item>
+        <item>#45FFBA</item>
+        <item>#6BFFC1</item>
+        <item>#9FFFC6</item>
+        <item>#BFFFC7</item>
+        <item>#DFFFD0</item>
+        <item>#B309FF</item>
+        <item>#9251FF</item>
+        <item>#D424FF</item>
+        <item>#BD74FF</item>
+        <item>#C39FFF</item>
+
+    </string-array>
+
+
+
+</resources>
